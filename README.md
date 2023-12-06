@@ -1,4 +1,6 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnZK9NYyEq7WtWtH0JRHChUrWtZrKzdntC1q6C6D3N12J9YCanEfvi7EO2wy00w_zzIgo&usqp=CAU)<h1 align="center">Hi 👋, I'm Cavid</h1>
+ [![MasterHead](https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_640.jpg)
+
+<h1 align="center">Hi 👋, I'm Cavid</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working onreact.js **shoppingarea**
